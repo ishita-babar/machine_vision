@@ -169,6 +169,6 @@ dataset/scan_doc_rotation
 ## Authors
 
 Aditya Deshmukh - 23BAI0072
-Aditya Agarwal - 23BAi0211
+Aditya Agarwal - 23BAI0211
 Ishita Babar - 23BAI0080
-Nakul Kamdar - 23BAi0120
+Nakul Kamdar - 23BAI0120
